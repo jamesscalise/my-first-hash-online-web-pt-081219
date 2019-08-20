@@ -1,5 +1,5 @@
 def my_hash
-  hash = {fuck: you}
+  hash = {fuck: "you"}
 end
 
 
